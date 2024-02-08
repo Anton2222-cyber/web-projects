@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyDjPCcJD1kylqebZGVJRITJiwVd0EZpL/kuUFPwAUCrh4qeJLlljE3yGoX5IIUePffjFlU8wlWHX0LhYBMpRg==",
+  "success": true,
+  "projectFilePath": "E:\\inter\\serverConsole\\HTTP_Protocol\\HTTP_Protocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

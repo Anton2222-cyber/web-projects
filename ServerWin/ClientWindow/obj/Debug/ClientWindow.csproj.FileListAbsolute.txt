@@ -1,0 +1,12 @@
+E:\inter\ServerWindow\ClientWindow\bin\Debug\ClientWindow.exe.config
+E:\inter\ServerWindow\ClientWindow\bin\Debug\ClientWindow.exe
+E:\inter\ServerWindow\ClientWindow\bin\Debug\ClientWindow.pdb
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.csproj.AssemblyReference.cache
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.csproj.SuggestedBindingRedirects.cache
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.Properties.Resources.resources
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.csproj.GenerateResource.cache
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.csproj.CoreCompileInputs.cache
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.exe
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.pdb
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.Menu.resources
+E:\inter\ServerWindow\ClientWindow\obj\Debug\ClientWindow.Settings.resources

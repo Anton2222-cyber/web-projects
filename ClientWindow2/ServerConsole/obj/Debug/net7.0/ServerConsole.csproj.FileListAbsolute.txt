@@ -1,0 +1,15 @@
+E:\inter\ClientWindow2\ServerConsole\bin\Debug\net7.0\ServerConsole.exe
+E:\inter\ClientWindow2\ServerConsole\bin\Debug\net7.0\ServerConsole.deps.json
+E:\inter\ClientWindow2\ServerConsole\bin\Debug\net7.0\ServerConsole.runtimeconfig.json
+E:\inter\ClientWindow2\ServerConsole\bin\Debug\net7.0\ServerConsole.dll
+E:\inter\ClientWindow2\ServerConsole\bin\Debug\net7.0\ServerConsole.pdb
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.csproj.AssemblyReference.cache
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.AssemblyInfoInputs.cache
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.AssemblyInfo.cs
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.csproj.CoreCompileInputs.cache
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.dll
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\refint\ServerConsole.dll
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.pdb
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ServerConsole.genruntimeconfig.cache
+E:\inter\ClientWindow2\ServerConsole\obj\Debug\net7.0\ref\ServerConsole.dll

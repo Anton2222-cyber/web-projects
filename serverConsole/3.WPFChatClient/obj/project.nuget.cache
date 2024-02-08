@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7LzIv12Kzy70OiUiUW+8B+4FKB/xR2bZrLc1WiQhw5tcx1oz4dpPSO6sAiJZGZ9chESf54mtRAwu0SetrQ6xBQ==",
+  "success": true,
+  "projectFilePath": "E:\\inter\\serverConsole\\3.WPFChatClient\\3.WPFChatClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

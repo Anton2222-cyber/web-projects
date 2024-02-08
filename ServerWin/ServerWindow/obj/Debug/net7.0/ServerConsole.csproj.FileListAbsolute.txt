@@ -1,0 +1,15 @@
+E:\inter\ServerWindow\ServerWindow\bin\Debug\net7.0\ServerConsole.exe
+E:\inter\ServerWindow\ServerWindow\bin\Debug\net7.0\ServerConsole.deps.json
+E:\inter\ServerWindow\ServerWindow\bin\Debug\net7.0\ServerConsole.runtimeconfig.json
+E:\inter\ServerWindow\ServerWindow\bin\Debug\net7.0\ServerConsole.dll
+E:\inter\ServerWindow\ServerWindow\bin\Debug\net7.0\ServerConsole.pdb
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.csproj.AssemblyReference.cache
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.AssemblyInfoInputs.cache
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.AssemblyInfo.cs
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.csproj.CoreCompileInputs.cache
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.dll
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\refint\ServerConsole.dll
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.pdb
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ServerConsole.genruntimeconfig.cache
+E:\inter\ServerWindow\ServerWindow\obj\Debug\net7.0\ref\ServerConsole.dll

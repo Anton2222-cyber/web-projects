@@ -1,0 +1,15 @@
+E:\inter\serverConsole\SMS_Send\bin\Debug\net7.0\SMS_Send.exe
+E:\inter\serverConsole\SMS_Send\bin\Debug\net7.0\SMS_Send.deps.json
+E:\inter\serverConsole\SMS_Send\bin\Debug\net7.0\SMS_Send.runtimeconfig.json
+E:\inter\serverConsole\SMS_Send\bin\Debug\net7.0\SMS_Send.dll
+E:\inter\serverConsole\SMS_Send\bin\Debug\net7.0\SMS_Send.pdb
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.csproj.AssemblyReference.cache
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.GeneratedMSBuildEditorConfig.editorconfig
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.AssemblyInfoInputs.cache
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.AssemblyInfo.cs
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.csproj.CoreCompileInputs.cache
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.dll
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\refint\SMS_Send.dll
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.pdb
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\SMS_Send.genruntimeconfig.cache
+E:\inter\serverConsole\SMS_Send\obj\Debug\net7.0\ref\SMS_Send.dll

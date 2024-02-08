@@ -1,0 +1,15 @@
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.csproj.AssemblyReference.cache
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.GeneratedMSBuildEditorConfig.editorconfig
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.AssemblyInfoInputs.cache
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.AssemblyInfo.cs
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.csproj.CoreCompileInputs.cache
+E:\inter\testrec\testrec\bin\Debug\net7.0\testrec.exe
+E:\inter\testrec\testrec\bin\Debug\net7.0\testrec.deps.json
+E:\inter\testrec\testrec\bin\Debug\net7.0\testrec.runtimeconfig.json
+E:\inter\testrec\testrec\bin\Debug\net7.0\testrec.dll
+E:\inter\testrec\testrec\bin\Debug\net7.0\testrec.pdb
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.dll
+E:\inter\testrec\testrec\obj\Debug\net7.0\refint\testrec.dll
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.pdb
+E:\inter\testrec\testrec\obj\Debug\net7.0\testrec.genruntimeconfig.cache
+E:\inter\testrec\testrec\obj\Debug\net7.0\ref\testrec.dll

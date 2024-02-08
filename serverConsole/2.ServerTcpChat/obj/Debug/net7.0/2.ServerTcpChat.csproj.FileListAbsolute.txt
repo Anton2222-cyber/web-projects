@@ -1,0 +1,16 @@
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\2.ServerTcpChat.exe
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\2.ServerTcpChat.deps.json
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\2.ServerTcpChat.runtimeconfig.json
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\2.ServerTcpChat.dll
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\2.ServerTcpChat.pdb
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.csproj.AssemblyReference.cache
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.GeneratedMSBuildEditorConfig.editorconfig
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.AssemblyInfoInputs.cache
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.AssemblyInfo.cs
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.csproj.CoreCompileInputs.cache
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.dll
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\refint\2.ServerTcpChat.dll
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.pdb
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\2.ServerTcpChat.genruntimeconfig.cache
+E:\inter\serverConsole\2.ServerTcpChat\obj\Debug\net7.0\ref\2.ServerTcpChat.dll
+E:\inter\serverConsole\2.ServerTcpChat\bin\Debug\net7.0\config.txt
